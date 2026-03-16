@@ -1,0 +1,11 @@
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\bin\Debug\RepeatedNumberGame.exe.config
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\bin\Debug\RepeatedNumberGame.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\bin\Debug\RepeatedNumberGame.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.csproj.AssemblyReference.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.Form1.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.Properties.Resources.resources
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.csproj.GenerateResource.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.csproj.CoreCompileInputs.cache
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.exe
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.pdb
+E:\Programming_Path\Programming Advices.com\Backend Development Track\Course#14\Course Code\Windows Forms\RepeatedNumberGame\obj\Debug\RepeatedNumberGame.exe.config
