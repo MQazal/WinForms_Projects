@@ -10,7 +10,7 @@ The projects in this repository are primarily built using:
 - Visual Studio
 <br>
 
-#Projects List:
+# Projects List:
 
 <h1>1- Simple Pizza Order Application</h1>
 
