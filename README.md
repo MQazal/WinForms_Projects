@@ -76,3 +76,19 @@ The application allows users to create tasks, track time-related information, an
 
 <br>
 
+<h1>String Encryptor</h1>
+<h2>Overview</h2>
+String Encryptor is a Windows Forms desktop application that demonstrates a simple approach to text encryption and decryption.
+The application allows users to enter a string, apply a basic encryption algorithm, and then decrypt it back to its original form, helping illustrate fundamental concepts of string manipulation and algorithm implementation.
+<h2>Features</h2>
+<ul>
+<li>🔐 Encrypt text using a simple encryption algorithm</li>
+<li>🔓 Decrypt encrypted text back to its original form</li>
+<li>⌨️ Accept user input through a graphical interface</li>
+<li>📋 Display encrypted and decrypted results</li>
+<li>🔄 Demonstrate basic string manipulation techniques</li>
+<li>🖥️ Simple and user-friendly Windows Forms interface</li>
+</ul>
+
+<br>
+
