@@ -111,8 +111,7 @@ The application demonstrates the use of randomization techniques in C# along wit
 <h1>Employee Management System</h1>
 
 <h2>Overview</h2>
-Employee Management System is a Windows Forms desktop application designed to simulate a simple system for managing employee information.
-This project focuses on practicing core concepts of C# Windows Forms development such as event-driven programming, working with collections of objects, and implementing basic CRUD (Create, Read, Update, Delete) operations within a desktop application.
+Employee Management System is a Windows Forms desktop application designed to simulate a simple system for managing employee information by basic CRUD (Create, Read, Update, Delete) operations within a desktop application.
 
 <h2>Features</h2>
 <h4>Employee Management</h4>
