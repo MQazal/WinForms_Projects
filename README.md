@@ -112,16 +112,13 @@ The application demonstrates the use of randomization techniques in C# along wit
 
 <h2>Overview</h2>
 Employee Management System is a Windows Forms desktop application designed to simulate a simple system for managing employee information.
-The application allows users to add, edit, delete, and view employee records through a graphical interface. It demonstrates how desktop applications can manage structured data while providing user-friendly tools for interacting with employee records.
 This project focuses on practicing core concepts of C# Windows Forms development such as event-driven programming, working with collections of objects, and implementing basic CRUD (Create, Read, Update, Delete) operations within a desktop application.
+
 <h2>Features</h2>
-<ul>
-
-<h2>Core Features</h2>
-
 <h4>Employee Management</h4>
 <ul>
-  <li><strong>Add New Employee:</strong> Complete form with validation for all employee details including personal information, job details, work hours, and contact information</li>
+  <li><strong>Add New Employee:</strong> Complete form with validation for all employee details including personal information,
+    job details, work hours, and contact information</li>
   <li><strong>View Employee:</strong> Display detailed employee information with visual representation</li>
   <li><strong>Update Employee:</strong> Modify existing employee records with data persistence</li>
   <li><strong>Delete Employee:</strong> Remove employee records with confirmation dialogs</li>
