@@ -8,6 +8,7 @@ The projects in this repository are primarily built using:
 - Visual Studio
 
 # Projects List:
+<br>
 
 <h1>Simple Pizza Order Application</h1>
 <h2>Overview</h2>
@@ -24,6 +25,7 @@ The application allows users to customize their pizza by selecting its size, cru
 </ul>
 
 <br>
+
 <h1>To-Do List (CheckedListBox Control)</h1>
 <h2>Overview</h2>
 To-Do List is a Windows Forms desktop application that demonstrates how to build a simple task management tool using the CheckedListBox control. 
