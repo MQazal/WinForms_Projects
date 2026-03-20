@@ -154,3 +154,79 @@ Employee Management System is a Windows Forms desktop application designed to si
 
 <br>
 
+<h1>Notepad Application</h1>
+
+<h2>Overview</h2>
+<p>
+Notepad Application is a Windows Forms desktop program that simulates a basic text editor similar to classic notepad tools.
+It allows users to create, edit, format, and manage text documents with a simple and user-friendly interface,
+demonstrating core concepts of event-driven programming and UI control handling.
+</p>
+
+<h2>Features</h2>
+
+<h3>File Management</h3>
+<ul>
+  <li><b>New File:</b> Create a new blank document</li>
+  <li><b>Open File:</b> Load text files from the system</li>
+  <li><b>Save File:</b> Save current content to file</li>
+  <li><b>Save As:</b> Save file with a new name or location</li>
+</ul>
+
+<h3>Text Editing</h3>
+<ul>
+  <li><b>Undo / Redo:</b> Reverse or restore recent changes</li>
+  <li><b>Cut / Copy / Paste:</b> Standard clipboard operations</li>
+  <li><b>Delete Text:</b> Remove selected content</li>
+  <li><b>Select All:</b> Quickly select entire document</li>
+</ul>
+
+<h3>Text Formatting</h3>
+<ul>
+  <li><b>Font Customization:</b> Change font family, size, and style</li>
+  <li><b>Text Color:</b> Apply custom colors to selected text</li>
+  <li><b>Highlighting:</b> Highlight important parts of text</li>
+  <li><b>Text Alignment:</b>
+    <ul>
+      <li>Left Align</li>
+      <li>Center Align</li>
+      <li>Right Align</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Search & Navigation</h3>
+<ul>
+  <li><b>Find Text:</b> Search for specific words or phrases</li>
+  <li><b>Go To Line:</b> Jump directly to a specific line number</li>
+</ul>
+
+<h3>User Interface Features</h3>
+<ul>
+  <li><b>Tabbed Interface:</b> Work with multiple documents simultaneously</li>
+  <li><b>RichTextBox Integration:</b> Advanced text formatting capabilities</li>
+  <li><b>ToolStrip & MenuStrip:</b> Organized access to all commands</li>
+  <li><b>Status Bar (Optional):</b> Display cursor position or document info</li>
+  <li><b>Icons & Visual Feedback:</b> Clear representation for actions</li>
+</ul>
+
+<h3>Data Handling</h3>
+<ul>
+  <li><b>File-based Storage:</b> Works with .txt and rich text formats</li>
+  <li><b>Auto State Management:</b> Tracks unsaved changes</li>
+  <li><b>Dynamic Updates:</b> Immediate reflection of formatting and edits</li>
+</ul>
+
+<h3>Event-Driven Programming</h3>
+<ul>
+  <li>Implements event-driven architecture where user actions (clicks, typing, selections) trigger behaviors</li>
+  <li>Separation between UI controls and logic methods for better maintainability</li>
+</ul>
+
+<h3>User Experience (UX)</h3>
+<ul>
+  <li>Simple and clean interface similar to classic notepad</li>
+  <li>Keyboard shortcuts for faster interaction</li>
+  <li>Confirmation dialogs before closing unsaved files</li>
+  <li>Smooth navigation between features</li>
+</ul>
