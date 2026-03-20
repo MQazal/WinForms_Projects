@@ -175,9 +175,6 @@ demonstrating core concepts of event-driven programming and UI control handling.
 
 <h3>Text Editing</h3>
 <ul>
-  <li><b>Undo / Redo:</b> Reverse or restore recent changes</li>
-  <li><b>Cut / Copy / Paste:</b> Standard clipboard operations</li>
-  <li><b>Delete Text:</b> Remove selected content</li>
   <li><b>Select All:</b> Quickly select entire document</li>
 </ul>
 
@@ -186,13 +183,6 @@ demonstrating core concepts of event-driven programming and UI control handling.
   <li><b>Font Customization:</b> Change font family, size, and style</li>
   <li><b>Text Color:</b> Apply custom colors to selected text</li>
   <li><b>Highlighting:</b> Highlight important parts of text</li>
-  <li><b>Text Alignment:</b>
-    <ul>
-      <li>Left Align</li>
-      <li>Center Align</li>
-      <li>Right Align</li>
-    </ul>
-  </li>
 </ul>
 
 <h3>Search & Navigation</h3>
